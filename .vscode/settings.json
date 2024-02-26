@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "chrono": "c",
+    "functional": "c",
+    "bank_account.h": "c"
+  }
+}
